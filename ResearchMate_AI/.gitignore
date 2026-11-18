@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+*.db
+ml/saved_models/
+data/
+.venv/
